@@ -1,0 +1,13 @@
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\obj\Debug\BicycleMushroomApp.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\obj\Debug\BicycleMushroomApp.BicycleForm.resources
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\obj\Debug\BicycleMushroomApp.ChooseForm.resources
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\obj\Debug\BicycleMushroomApp.LoginForm.resources
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\obj\Debug\BicycleMushroomApp.MushroomForm.resources
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\obj\Debug\BicycleMushroomApp.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\obj\Debug\BicycleMushroomApp.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\obj\Debug\BicycleMushroomApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\bin\Debug\BicycleMushroomApp.exe.config
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\bin\Debug\BicycleMushroomApp.exe
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\bin\Debug\BicycleMushroomApp.pdb
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\obj\Debug\BicycleMushroomApp.exe
+C:\Users\pc\OneDrive\Desktop\AUCA\Courses\Semester 9\Dot Net\BicycleMushroomApp\BicycleMushroomApp\obj\Debug\BicycleMushroomApp.pdb
